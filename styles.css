@@ -167,6 +167,11 @@ footer a {
   color: #dfdfe2; /* Set font color for the footer and anchor element within it */
 }
 
+address {
+  text-align: center; /* Horizontally center the text */
+  padding: 10px; /* Add padding */
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
