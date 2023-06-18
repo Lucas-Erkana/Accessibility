@@ -72,6 +72,8 @@ h2 {
 
 h2 {
   border-bottom: 4px solid #dfdfe2;
+  padding-top: 60px; /* Add 60px of top padding */
+  margin-top: 0; /* Set margin-top to 0 */
 }
 
 p::before {
