@@ -28,7 +28,7 @@ header {
 h1 {
   color: #f1be32;
   font-size: min(5vw, 1.2em);
-  text-align: center; /* Align text in the center */
+  text-align: center;
 }
 
 nav {
@@ -40,6 +40,11 @@ nav {
 nav > ul {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap; /* Wrap the content on small screens */
+  align-items: center; /* Align items vertically */
+  padding-inline-start: 0; /* Remove inline start padding */
+  margin-block: 0; /* Remove block margin */
+  height: 100%; /* Ensure the list takes full height */
 }
 
 nav > ul > li {
@@ -86,5 +91,5 @@ p::before {
 }
 
 main {
-  padding-top: 70px; /* Adjust the padding for the Student Info section header */
+  padding-top: 70px;
 }
