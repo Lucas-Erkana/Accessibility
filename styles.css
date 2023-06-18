@@ -42,8 +42,18 @@ nav > ul > li {
   display: block;
 }
 
-li > a {
-  color: #fff; /* Update with your desired color */
+nav li a {
+  text-decoration: none;
+}
+
+nav li:hover {
+  background-color: #dfdfe2;
+  color: #1b1b32;
+  cursor: pointer;
+}
+
+nav > ul > li > a {
+  color: inherit;
 }
 
 h1,
