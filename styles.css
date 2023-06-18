@@ -103,8 +103,22 @@ section {
 }
 
 .info {
-  padding-top: 10px; /* Add padding to the top */
-  padding-left: 10px; /* Add padding to the left */
-  padding-right: 0; /* Set padding-right to 0 */
-  padding-bottom: 0; /* Set padding-bottom to 0 */
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0;
+}
+
+.formrow {
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+input {
+  font-size: 16px;
+
+  /* Increase font size for input elements */
 }
