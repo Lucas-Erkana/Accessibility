@@ -44,6 +44,10 @@ h2 {
   border-bottom: 4px solid #dfdfe2;
 }
 
+p::before {
+  content: "Question #";
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
