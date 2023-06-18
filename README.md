@@ -89,7 +89,7 @@ In this course, you'll build a quiz webpage. You'll learn accessibility tools su
 
 - On the terminal run this command git clone https://github.com/Lucash2022/Accessibility.git
 
-- Go to the repository folder using command prompt cd Awesome_Book.
+- Go to the repository folder using command prompt cd Accessibility.
 
 - Install the dev dependencies for linters run npm install.
 
@@ -103,7 +103,7 @@ In order to run this project you need:
 
 -Internet Explorer
 
--Any broswer
+-Any browser
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -129,9 +129,9 @@ Clone this repository to your desired folder:
 ## 👤**Authors** <a name="authors"></a>
 <h4>Lucas Erkana</h4>
 
-<img src="/images/github.svg" alt="logo" width="18"  height="18" />[githubhandle](https://github.com/Lucash2022)
+<img src="/images/github.svg" alt="logo" width="18"  height="18" />[github handle](https://github.com/Lucash2022)
 <br>
-<img src="/images/twitter.svg" alt="logo" width="18"  height="18" /> [twitterhandle](https://twitter.com/@Lucas_David_22)
+<img src="/images/twitter.svg" alt="logo" width="18"  height="18" /> [twitter handle](https://twitter.com/@Lucas_David_22)
 <br>
 <img src="/images/linkedin.svg" alt="logo" width="18"  height="18" />[linkedIn](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
   <br>
