@@ -14,8 +14,6 @@ header {
   align-items: center;
   position: fixed;
   top: 0;
-  left: 0;
-  z-index: 999;
 }
 
 #logo {
@@ -82,8 +80,8 @@ h2 {
 
 h2 {
   border-bottom: 4px solid #dfdfe2;
-  padding-top: 60px;
   margin-top: 0;
+  padding-top: 60px;
 }
 
 .info {
@@ -99,6 +97,11 @@ input {
   font-size: 16px;
 }
 
+.info label,
+.info input {
+  display: inline-block;
+}
+
 .info input {
   width: 50%;
   text-align: left;
@@ -110,9 +113,12 @@ input {
   text-align: right;
 }
 
-.info input,
-.info label {
-  display: inline-block;
+.question-block {
+  text-align: left;
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+  padding-top: 5px;
 }
 
 p::before {
