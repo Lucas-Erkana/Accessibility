@@ -42,6 +42,10 @@ nav > ul > li {
   display: block;
 }
 
+li > a {
+  color: #fff; /* Update with your desired color */
+}
+
 h1,
 h2 {
   font-family: Verdana, Tahoma, Arial, sans-serif;
