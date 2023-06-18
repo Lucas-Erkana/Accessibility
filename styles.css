@@ -40,11 +40,11 @@ nav {
 nav > ul {
   display: flex;
   justify-content: space-evenly;
-  flex-wrap: wrap; /* Wrap the content on small screens */
-  align-items: center; /* Align items vertically */
-  padding-inline-start: 0; /* Remove inline start padding */
-  margin-block: 0; /* Remove block margin */
-  height: 100%; /* Ensure the list takes full height */
+  flex-wrap: wrap;
+  align-items: center;
+  padding-inline-start: 0;
+  margin-block: 0;
+  height: 100%;
 }
 
 nav > ul > li {
@@ -92,4 +92,10 @@ p::before {
 
 main {
   padding-top: 70px;
+}
+
+section {
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto 10px; /* Center and add 10px bottom margin */
 }
