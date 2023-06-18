@@ -52,6 +52,11 @@ nav > ul > li {
   display: block;
 }
 
+.answers-list li {
+  margin: 0;
+  padding: 0;
+}
+
 nav > ul > li:hover {
   background-color: #dfdfe2;
   color: #1b1b32;
@@ -134,6 +139,11 @@ p::before {
 .question {
   border: none;
   padding-bottom: 0;
+}
+
+.answers-list {
+  list-style-type: none;
+  padding: 0;
 }
 
 .sr-only {
