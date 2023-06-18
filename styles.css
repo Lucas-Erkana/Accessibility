@@ -72,8 +72,8 @@ h2 {
 
 h2 {
   border-bottom: 4px solid #dfdfe2;
-  padding-top: 60px; /* Add 60px of top padding */
-  margin-top: 0; /* Set margin-top to 0 */
+  padding-top: 60px;
+  margin-top: 0;
 }
 
 p::before {
@@ -99,5 +99,12 @@ main {
 section {
   width: 80%;
   max-width: 600px;
-  margin: 0 auto 10px; /* Center and add 10px bottom margin */
+  margin: 0 auto 10px;
+}
+
+.info {
+  padding-top: 10px; /* Add padding to the top */
+  padding-left: 10px; /* Add padding to the left */
+  padding-right: 0; /* Set padding-right to 0 */
+  padding-bottom: 0; /* Set padding-bottom to 0 */
 }
