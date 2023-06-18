@@ -10,6 +10,12 @@ header {
   height: 50px;
   background-color: #1b1b32;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
 }
 
 #logo {
@@ -42,18 +48,15 @@ nav > ul > li {
   display: block;
 }
 
-nav li a {
-  text-decoration: none;
-}
-
-nav li:hover {
+nav > ul > li:hover {
   background-color: #dfdfe2;
   color: #1b1b32;
   cursor: pointer;
 }
 
-nav > ul > li > a {
+li > a {
   color: inherit;
+  text-decoration: none;
 }
 
 h1,
