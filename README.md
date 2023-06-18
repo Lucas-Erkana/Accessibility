@@ -29,16 +29,16 @@
 # 📖 Accessibility<a name="about-project"></a>
 <table style="border: 2px solid black;">
   <tr>
-    <th>Top part of Registration form</th>
-    <th>Bottom part of registration form</th>
+    <th>Student Info</th>
+    <th>HTML questions</th>
   </tr>
   <tr style="border: 2px solid black;">
     <td style="border: 1px solid black;"><img src="/images/Toppart.jpg" alt="Top part of Registration form" width="300"  height="270" /></td>
     <td><img src="/images/Bottompart.jpg" alt="Bottom part of Registration form" width="300"  height="270" /></td>
   </tr>
   <tr>
-    <th>Filled Top Part</th>
-    <th>Filled Bottom part</th>
+    <th>CSS question</th>
+    <th>Footer</th>
   </tr>
     <tr style="border: 2px solid black;">
       <td><img src="/images/topPartFilled.jpg" alt="Filled Registration Form" width="300"  height="270" /></td>
@@ -53,11 +53,11 @@ In this course, you'll build a quiz webpage. You'll learn accessibility tools su
 
 **Here are some features of the page:**
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Enter Student Info</li>
+<li>Answer True or False Questions</li>
+<li>Answer CSS question from a list of options</li>
+<li>Provide questions if needed</li>
+<li>Submit the form</li>
 
 </ul>
 
@@ -74,7 +74,7 @@ In this course, you'll build a quiz webpage. You'll learn accessibility tools su
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Accessibility]( https://lucash2022.github.io/RegistrationForm/)
+[Accessibility](https://lucash2022.github.io/Accessibility/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
