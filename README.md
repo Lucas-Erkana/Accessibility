@@ -30,14 +30,14 @@
 <table style="border: 2px solid black;">
   <tr>
     <th>Student Info</th>
-    <th>CSS questions</th>
+    <th>HTML questions</th>
   </tr>
   <tr style="border: 2px solid black;">
-    <td style="border: 1px solid black;"><img src="/images/Toppart.jpg" alt="Top part of Registration form" width="200"  height="160" /></td>
-    <td><img src="/images/Bottompart.jpg" alt="Bottom part of Registration form" width="200"  height="160" /></td>
+    <td style="border: 1px solid black;"><img src="/images/Toppart.jpg" alt="Top part of Registration form" width="300"  height="270" /></td>
+    <td><img src="/images/Bottompart.jpg" alt="Bottom part of Registration form" width="300"  height="270" /></td>
   </tr>
   <tr>
-    <th>HTML question</th>
+    <th>CSS question</th>
     <th>Footer</th>
   </tr>
     <tr style="border: 2px solid black;">
