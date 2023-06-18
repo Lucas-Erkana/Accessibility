@@ -107,6 +107,12 @@ input {
 .info label {
   width: 10%;
   min-width: 55px;
+  text-align: right;
+}
+
+.info input,
+.info label {
+  display: inline-block;
 }
 
 p::before {
