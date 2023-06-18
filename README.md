@@ -1,18 +1,11 @@
-# Project Name <!---Title of Project-->
 <a name="readme-top"></a>
-
-
-## Project Name <!---Title of Project-->
-
-This project is about a .....................................
-
 
 <div align="center">
 
-  <img src="/images/murple_logo.png" alt="logo" width="140"  height="auto" /> <!---Organization logo-->
+  <img src="https://img.stackshare.io/stack/12741/default_bcc87e47eb053f5947fa6dbe45beba33a3d1dc56.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse</b></h3>
+  <h3><b>freeCodeCamp</b></h3>
 
 </div>
 
@@ -33,37 +26,46 @@ This project is about a .....................................
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Project name<a name="about-project"></a> <!---Project title-->
+# 📖 Accessibility<a name="about-project"></a>
 <table style="border: 2px solid black;">
   <tr>
-    <th style="border: 1px solid black;">Desktop Version</th>
-    <th>Mobile Version</th>
-     <th style="border: 1px solid black;">Mobile Version Menu</th>
+    <th>Top part of Registration form</th>
+    <th>Bottom part of registration form</th>
   </tr>
   <tr style="border: 2px solid black;">
-  <td style="border: 1px solid black;"><img src="/images/DesktopVersion.jpg" alt="Desktop Version" width="400"  height="200" /></td>
-  <td><img src="/images/MobileVersion.jpg" alt="Mobile Version" width="150"  height="200" /></td>
-   <td><img src="/images/MobileVersionMenu.jpg" alt="Mobile Version" width="150"  height="200" /></td>
+    <td style="border: 1px solid black;"><img src="/images/Toppart.jpg" alt="Top part of Registration form" width="300"  height="270" /></td>
+    <td><img src="/images/Bottompart.jpg" alt="Bottom part of Registration form" width="300"  height="270" /></td>
+  </tr>
+  <tr>
+    <th>Filled Top Part</th>
+    <th>Filled Bottom part</th>
+  </tr>
+    <tr style="border: 2px solid black;">
+      <td><img src="/images/topPartFilled.jpg" alt="Filled Registration Form" width="300"  height="270" /></td>
+      <td><img src="/images/bottomPartFilled.jpg" alt="Filled Registration Form" width="300"  height="270" /></td>
   </tr>
 </table>
-**Project name** is a website that will......................................... 
+**Accessibility** is making your webpage easy for all people to use – even people with disabilities.
 
-Here are some features of the page:
+In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.. 
+<br>
+<br>
 
+**Here are some features of the page:**
 <ul>
-  <li>Feature 1</li>
-  <li>Feature 2</li>
-  <li>Feature 3</li>
-  <li>Feature 4</li>
-</ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 
+</ul>
 
 
 
 ## 🛠 Built With <a name="built-with"></a>
     HTML
     CSS
-    Javascript
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,7 +74,7 @@ Here are some features of the page:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[html-css_javascipt template](https://lucash2022.github.io/html-css_js_template/)
+[Accessibility]( https://lucash2022.github.io/RegistrationForm/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +87,7 @@ Here are some features of the page:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone [link to repository]
+- On the terminal run this command git clone https://github.com/Lucash2022/Accessibility.git
 
 - Go to the repository folder using command prompt cd Awesome_Book.
 
@@ -112,9 +114,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone [link to repository].git
+- On the terminal run this command git clone https://github.com/Lucash2022/Accessibility.git
 
-- Go to the repository folder using command prompt cd [name of repository].
+- Go to the repository folder using command prompt cd RegistrationForm.
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -125,7 +127,7 @@ Clone this repository to your desired folder:
 <!-- Author -->
 
 ## 👤**Authors** <a name="authors"></a>
-<h4>Author name</h4>
+<h4>Lucas Erkana</h4>
 
 <img src="/images/github.svg" alt="logo" width="18"  height="18" />[githubhandle](https://github.com/Lucash2022)
 <br>
@@ -136,12 +138,14 @@ Clone this repository to your desired folder:
 <img src="/images/facebook.svg" alt="logo" width="18"  height="18" />[facebook](https://www.facebook.com/lucash.toni)
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- Implement some UX improvements: add a home page, include transitions and/or animation
 
 - Implement additional pages, which will allow the user to Register
 
@@ -155,7 +159,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Lucash2022/Awesome_Book/issues/2).
+Feel free to check the [issues page](https://github.com/Lucash2022/RegistrationForm/issues/2).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,15 +175,15 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+[freeCodeCamp](https://www.freecodecamp.org/)
+
 [Font Awesome](https://fontawesome.com/search?q=book&o=r)
 
 [Icons8](https://icons8.com/icons/set/books)
 
 [Google Fonts](https://developers.google.com/fonts)
 
-
 [Bootsrtap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-
 
 [Luxon](https://imdac.github.io/modules/js/luxon/)
 
